@@ -12,7 +12,7 @@ pip install kaggle-environments
 Check out the documentation for the API [here](https://pypi.org/project/kaggle-environments/)
 
 ###### There are 2 different agents implemented using different a strategy and logic. (Swarm is better in my opinion)
-1. Improved MiniMax
+1. Improved MiniMax (Uses Alpha-Beta pruning)
 2. Swarm Intelligence
 
 ##### To play the game against the swarm agent:
